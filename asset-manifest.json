@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/static/js/main.c11da759.chunk.js",
-    "main.js.map": "/static/js/main.c11da759.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a1cc1b42.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a1cc1b42.js.map",
-    "static/js/2.f6b25697.chunk.js": "/static/js/2.f6b25697.chunk.js",
-    "static/js/2.f6b25697.chunk.js.map": "/static/js/2.f6b25697.chunk.js.map",
-    "static/js/3.db6f1140.chunk.js": "/static/js/3.db6f1140.chunk.js",
-    "static/js/3.db6f1140.chunk.js.map": "/static/js/3.db6f1140.chunk.js.map",
-    "static/js/4.739683a3.chunk.js": "/static/js/4.739683a3.chunk.js",
-    "static/js/4.739683a3.chunk.js.map": "/static/js/4.739683a3.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.f6b25697.chunk.js.LICENSE.txt": "/static/js/2.f6b25697.chunk.js.LICENSE.txt"
+    "main.js": "/adonis/static/js/main.c11da759.chunk.js",
+    "main.js.map": "/adonis/static/js/main.c11da759.chunk.js.map",
+    "runtime-main.js": "/adonis/static/js/runtime-main.42b71053.js",
+    "runtime-main.js.map": "/adonis/static/js/runtime-main.42b71053.js.map",
+    "static/js/2.3ae2e240.chunk.js": "/adonis/static/js/2.3ae2e240.chunk.js",
+    "static/js/2.3ae2e240.chunk.js.map": "/adonis/static/js/2.3ae2e240.chunk.js.map",
+    "static/js/3.db6f1140.chunk.js": "/adonis/static/js/3.db6f1140.chunk.js",
+    "static/js/3.db6f1140.chunk.js.map": "/adonis/static/js/3.db6f1140.chunk.js.map",
+    "static/js/4.739683a3.chunk.js": "/adonis/static/js/4.739683a3.chunk.js",
+    "static/js/4.739683a3.chunk.js.map": "/adonis/static/js/4.739683a3.chunk.js.map",
+    "index.html": "/adonis/index.html",
+    "static/js/2.3ae2e240.chunk.js.LICENSE.txt": "/adonis/static/js/2.3ae2e240.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1cc1b42.js",
-    "static/js/2.f6b25697.chunk.js",
+    "static/js/runtime-main.42b71053.js",
+    "static/js/2.3ae2e240.chunk.js",
     "static/js/main.c11da759.chunk.js"
   ]
 }
