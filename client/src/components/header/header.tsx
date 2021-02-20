@@ -20,7 +20,7 @@ export default function Header() {
     <HeaderWrapper>
       <Menu open={menuOpen}>
         <HeaderLogo>
-          <img src="/assets/images/logo.svg" alt="Adonis" />
+          <img src="assets/images/logo.svg" alt="Adonis" />
         </HeaderLogo>
         <MenuActions>
           <Menu.Toggle onClick={() => setMenuOpen((menuOpen) => !menuOpen)} />
