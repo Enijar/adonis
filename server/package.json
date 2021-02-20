@@ -1,6 +1,5 @@
 {
   "private": true,
-  "homepage": "https://enijar.github.io/adonis/",
   "scripts": {
     "start": "nodemon --watch ../../client/src/shared --watch src src/index.ts",
     "build": "tsc -p tsconfig.json",
