@@ -10,7 +10,7 @@ export default function App() {
     <AppWrapper>
       <React.Suspense fallback={<Loading />}>
         <Switch>
-          <Route exact path="/" component={Home} />
+          <Route exact path="" component={Home} />
         </Switch>
       </React.Suspense>
     </AppWrapper>
