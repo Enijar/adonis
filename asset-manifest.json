@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/adonis/static/js/main.c11da759.chunk.js",
-    "main.js.map": "/adonis/static/js/main.c11da759.chunk.js.map",
+    "main.js": "/adonis/static/js/main.157200de.chunk.js",
+    "main.js.map": "/adonis/static/js/main.157200de.chunk.js.map",
     "runtime-main.js": "/adonis/static/js/runtime-main.42b71053.js",
     "runtime-main.js.map": "/adonis/static/js/runtime-main.42b71053.js.map",
     "static/js/2.3ae2e240.chunk.js": "/adonis/static/js/2.3ae2e240.chunk.js",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.42b71053.js",
     "static/js/2.3ae2e240.chunk.js",
-    "static/js/main.c11da759.chunk.js"
+    "static/js/main.157200de.chunk.js"
   ]
 }
