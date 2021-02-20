@@ -1,6 +1,5 @@
 {
   "private": true,
-  "homepage": "https://enijar.github.io/adonis/",
   "scripts": {
     "postinstall": "concurrently \"npm --prefix client install\" \"npm --prefix server install\"",
     "start": "concurrently \"npm --prefix client start\" \"npm --prefix server start\"",
