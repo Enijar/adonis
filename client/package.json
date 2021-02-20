@@ -1,6 +1,6 @@
 {
   "private": true,
-  "homepage": "https://enijar.github.io/adonis/",
+  "homepage": ".",
   "scripts": {
     "start": "BROWSER=none PORT=8080 react-scripts start",
     "build": "react-scripts build",
